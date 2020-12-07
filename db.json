@@ -2,28 +2,39 @@
   "movies": [
     {
       "id": 1,
-      "title": "Inception",
-      "picture": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+      "title": "The Invisible Man",
+      "picture": "https://see-mag.fr/wp-content/uploads/2020/06/THE_INVISIBLE_MAN_POSTER_SEE.jpg",
+      "release": "2020-02-28"
     },
     {
       "id": 2,
-      "title": "Avatar",
-      "picture": "https://i.pinimg.com/originals/17/aa/71/17aa718c1ab15b482505b8431cf596fc.jpg"
+      "title": "Inception",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "release": "2010-07-08"
     },
     {
       "id": 3,
-      "title": "Interstellar",
-      "picture": "https://i.pinimg.com/originals/11/1c/5c/111c5c9ad99661af2d80e38948cf29d8.jpg"
+      "title": "Avatar",
+      "picture": "https://i.pinimg.com/originals/17/aa/71/17aa718c1ab15b482505b8431cf596fc.jpg",
+      "release": "2009-12-10"
     },
     {
       "id": 4,
-      "title": "Gattaca",
-      "picture": "https://m.media-amazon.com/images/M/MV5BODI3ZTc5NjktOGMyOC00NjYzLTgwZDYtYmQ4NDc1MmJjMjRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR87,0,630,1200_AL_.jpg"
+      "title": "Interstellar",
+      "picture": "https://i.pinimg.com/originals/11/1c/5c/111c5c9ad99661af2d80e38948cf29d8.jpg",
+      "release": "2014-10-26"
     },
     {
       "id": 5,
+      "title": "Gattaca",
+      "picture": "https://m.media-amazon.com/images/M/MV5BODI3ZTc5NjktOGMyOC00NjYzLTgwZDYtYmQ4NDc1MmJjMjRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR87,0,630,1200_AL_.jpg",
+      "release": "1997-10-24"
+    },
+    {
+      "id": 6,
       "title": "Children of Men",
-      "picture": "https://i.pinimg.com/originals/47/dc/91/47dc91e8b0654c523037cb6bd710adcb.jpg"
+      "picture": "https://i.pinimg.com/originals/47/dc/91/47dc91e8b0654c523037cb6bd710adcb.jpg",
+      "release": "2006-09-03"
     }
   ]
 }
